@@ -1,0 +1,52 @@
+{
+    "products":[
+        {
+            "_id": "dress1",
+            "title": "Dress 1",
+            "image": "/images/dress1.jpg",
+            "desc": "about dress 1",
+            "price": 19,
+            "size": ["XL", "XXL"]
+        },
+        {
+            "_id": "dress2",
+            "title": "Midi sundress with ruched front 1",
+            "image": "/images/dress2.jpg",
+            "desc": "This is for all the latest trneds, no matter",
+            "price": 18.9,
+            "size": ["S", "M", "L"]
+        },
+        {
+            "_id": "dress3",
+            "title": "Dress 3",
+            "image": "/images/dress3.jpg",
+            "desc": "about dress 3",
+            "price": 17.75,
+            "size": ["L", "XXL"]
+        },
+        {
+            "_id": "dress4",
+            "title": "Dress 4",
+            "image": "/images/dress4.jpg",
+            "desc": "about dress 4",
+            "price": 22.3,
+            "size": ["S", "M"]
+        },
+        {
+            "_id": "dress5",
+            "title": "Dress 5",
+            "image": "/images/dress5.jpg",
+            "desc": "about dress 5",
+            "price": 13.35,
+            "size": ["S", "M"]
+        },
+        {
+            "_id": "dress6",
+            "title": "Dress 6",
+            "image": "/images/dress6.jpg",
+            "desc": "about dress 6",
+            "price": 19.35,
+            "size": ["L", "XL", "XXL"]
+        }
+    ]
+}
